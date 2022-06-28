@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\bin\Debug\netcoreapp3.1\EmailDetect.exe
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\bin\Debug\netcoreapp3.1\EmailDetect.deps.json
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\bin\Debug\netcoreapp3.1\EmailDetect.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\bin\Debug\netcoreapp3.1\EmailDetect.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\bin\Debug\netcoreapp3.1\EmailDetect.dll
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\bin\Debug\netcoreapp3.1\EmailDetect.pdb
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.dll
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.pdb
+C:\Users\HP\Desktop\Programmer\c#\Inheritance\Inheritance, Access Modifiers, Encapsulation, Namespace, DLL\EmailDetector\EmailDetect\EmailDetect\obj\Debug\netcoreapp3.1\EmailDetect.genruntimeconfig.cache
